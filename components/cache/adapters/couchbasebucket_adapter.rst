@@ -4,7 +4,7 @@
 
 .. _couchbase-adapter:
 
-Couchbase Cache Adapter
+Couchbase Bucket Cache Adapter
 =======================
 
 This adapter stores the values in-memory using one (or more) `Couchbase server`_
